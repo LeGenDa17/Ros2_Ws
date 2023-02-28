@@ -1,0 +1,8 @@
+#1 mkdir ros2_ws
+#2 cd ros2_ws
+#3 mkdir src
+#4 colcon build
+#5 source ~/ros2_ws/install/setup.bash
+#6 cd src/
+#7 ros2 pkg create jarvis_controller --build-type ament_python --dependencies rclpy
+

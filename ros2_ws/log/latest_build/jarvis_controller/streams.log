@@ -1,0 +1,20 @@
+[0.666s] Invoking command in '/home/legenda/ros2_ws/src/jarvis_controller': PYTHONPATH=/home/legenda/ros2_ws/build/jarvis_controller/prefix_override:/home/legenda/ros2_ws/install/jarvis_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jarvis_controller build --build-base /home/legenda/ros2_ws/build/jarvis_controller/build install --record /home/legenda/ros2_ws/build/jarvis_controller/install.log --single-version-externally-managed
+[0.931s] running egg_info
+[0.931s] writing ../../build/jarvis_controller/jarvis_controller.egg-info/PKG-INFO
+[0.931s] writing dependency_links to ../../build/jarvis_controller/jarvis_controller.egg-info/dependency_links.txt
+[0.932s] writing entry points to ../../build/jarvis_controller/jarvis_controller.egg-info/entry_points.txt
+[0.932s] writing requirements to ../../build/jarvis_controller/jarvis_controller.egg-info/requires.txt
+[0.932s] writing top-level names to ../../build/jarvis_controller/jarvis_controller.egg-info/top_level.txt
+[0.934s] reading manifest file '../../build/jarvis_controller/jarvis_controller.egg-info/SOURCES.txt'
+[0.935s] writing manifest file '../../build/jarvis_controller/jarvis_controller.egg-info/SOURCES.txt'
+[0.935s] running build
+[0.935s] running build_py
+[0.935s] running install
+[0.935s] running install_lib
+[0.936s] running install_data
+[0.937s] running install_egg_info
+[0.938s] removing '/home/legenda/ros2_ws/install/jarvis_controller/lib/python3.10/site-packages/jarvis_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.939s] Copying ../../build/jarvis_controller/jarvis_controller.egg-info to /home/legenda/ros2_ws/install/jarvis_controller/lib/python3.10/site-packages/jarvis_controller-0.0.0-py3.10.egg-info
+[0.939s] running install_scripts
+[0.959s] writing list of installed files to '/home/legenda/ros2_ws/build/jarvis_controller/install.log'
+[0.990s] Invoked command in '/home/legenda/ros2_ws/src/jarvis_controller' returned '0': PYTHONPATH=/home/legenda/ros2_ws/build/jarvis_controller/prefix_override:/home/legenda/ros2_ws/install/jarvis_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jarvis_controller build --build-base /home/legenda/ros2_ws/build/jarvis_controller/build install --record /home/legenda/ros2_ws/build/jarvis_controller/install.log --single-version-externally-managed
